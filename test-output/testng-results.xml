@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71947" started-at="2021-02-25T09:51:27Z" finished-at="2021-02-25T09:52:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71947" started-at="2021-02-25T09:51:27Z" finished-at="2021-02-25T09:52:39Z">
+      <class name="com.letskodeit.testclass.AllCourseTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.letskodeit.testclass.AllCourseTest@35083305]" name="setUp" is-config="true" duration-ms="39360" started-at="2021-02-25T09:51:27Z" finished-at="2021-02-25T09:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchCourse()[pri:0, instance:com.letskodeit.testclass.AllCourseTest@35083305]" name="verifySearchCourse" duration-ms="31812" started-at="2021-02-25T09:52:06Z" finished-at="2021-02-25T09:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchCourse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.letskodeit.testclass.AllCourseTest@35083305]" name="tearDown" is-config="true" duration-ms="747" started-at="2021-02-25T09:52:38Z" finished-at="2021-02-25T09:52:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.letskodeit.testclass.AllCourseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
